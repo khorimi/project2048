@@ -1,0 +1,15 @@
+C:\Users\Khorimi\Desktop\MiniGame2048-C-sharp-master\Physics\bin\Debug\filippov.exe.config
+C:\Users\Khorimi\Desktop\MiniGame2048-C-sharp-master\Physics\bin\Debug\filippov.exe
+C:\Users\Khorimi\Desktop\MiniGame2048-C-sharp-master\Physics\bin\Debug\filippov.pdb
+C:\Users\Khorimi\Desktop\MiniGame2048-C-sharp-master\Physics\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Khorimi\Desktop\MiniGame2048-C-sharp-master\Physics\bin\Debug\Tao.OpenGl.xml
+C:\Users\Khorimi\Desktop\MiniGame2048-C-sharp-master\Physics\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Khorimi\Desktop\MiniGame2048-C-sharp-master\Physics\obj\Debug\filippov.csproj.SuggestedBindingRedirects.cache
+C:\Users\Khorimi\Desktop\MiniGame2048-C-sharp-master\Physics\obj\Debug\Physics.Form1.resources
+C:\Users\Khorimi\Desktop\MiniGame2048-C-sharp-master\Physics\obj\Debug\filippov.Properties.Resources.resources
+C:\Users\Khorimi\Desktop\MiniGame2048-C-sharp-master\Physics\obj\Debug\filippov.csproj.GenerateResource.cache
+C:\Users\Khorimi\Desktop\MiniGame2048-C-sharp-master\Physics\obj\Debug\filippov.csproj.CoreCompileInputs.cache
+C:\Users\Khorimi\Desktop\MiniGame2048-C-sharp-master\Physics\obj\Debug\filippov.csproj.CopyComplete
+C:\Users\Khorimi\Desktop\MiniGame2048-C-sharp-master\Physics\obj\Debug\filippov.exe
+C:\Users\Khorimi\Desktop\MiniGame2048-C-sharp-master\Physics\obj\Debug\filippov.pdb
+C:\Users\Khorimi\Desktop\MiniGame2048-C-sharp-master\Physics\obj\Debug\filippov.csproj.AssemblyReference.cache
